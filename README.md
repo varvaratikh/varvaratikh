@@ -1,3 +1,6 @@
+![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fklassnaya_kartinka_3392078&psig=AOvVaw2Ej5hkriZuXsYqSWcQgdbA&ust=1729617067651000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDlrun7n4kDFQAAAAAdAAAAABAE)
+
+
 # MasterJudah here 🔥!
 
 Namaste 🙏 I'm Joshua Thadi
@@ -17,7 +20,14 @@ I work on frontend and backend development as a hobby, and I am skilled while fo
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js&logoColor=green)
-## GitHub Stats
+
+## 🕒 When I'm Most Active:
+| Time of Day | Activity |
+|-------------|----------|
+| 🌅 **Morning** | Working on code, tackling new problems |
+| 🌞 **Day**     | Active on GitHub, collaborating, contributing to projects |
+| 🌙 **Night**   | Researching new tech and late-night coding sessions |
+
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varvaratikh&show_icons=true&theme=radical)
 
