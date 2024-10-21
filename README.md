@@ -1,31 +1,22 @@
 ![Header](https://images.unsplash.com/photo-1729424004701-cac6289119a2?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
-# MasterJudah here 🔥!
+# Welcome, I'm Varya! 🔥
 
-Namaste 🙏 I'm Joshua Thadi
+Hi! I'm Varvara Tikhonova, but feel free to call me Varya. 🙌
 
 ## About Me
-🚀 Began the journey with Software Development in ASP.NET MVC.
+🚀 I've been in web development since 2023, and I can code and build web interfaces endlessly. It's not just work — it adds flavor to my life.
 
-I work on frontend and backend development as a hobby, and I am skilled while focusing on Data Science and AI/ML.
+- 💻 I'm a React developer, passionate about creating dynamic, interactive web applications.
+- 🎨 In the past, I worked as a web designer, so I handle both the design and development of my projects. Every UI/UX detail is crafted by me to ensure it looks and feels just right.
+- 💬 Ask me about: HTML, CSS, JavaScript, React, and responsive web design.
+- 🎯 My interests include building beautiful user interfaces, optimizing application performance, and refining user experiences.
 
-- 💻 I’m currently pursuing a degree in Computer Science.
-- 💡 I worked on .Net framework and hands-on experience in Full Stack.
-- 💬 Ask me about: Microsoft .Net framework, Full Stack Development, Python.
-- 🎯 Interests: Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
-- ⚡ Fun fact: I only like perfection.
+If you're looking for someone who can bring a design to life with clean code, or want to chat about React, feel free to reach out!
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varvaratikh&theme=radical)
 
 ## Most Used Languages:
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varvaratikh&theme=radical)
-
-## 🕒 When I'm Most Active:
-| Time of Day | Activity |
-|-------------|----------|
-| 🌅 **Morning** | Working on code, tackling new problems |
-| 🌞 **Day**     | Active on GitHub, collaborating, contributing to projects |
-| 🌙 **Night**   | Researching new tech and late-night coding sessions |
-
