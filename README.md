@@ -3,7 +3,7 @@
 
 Hi! I'm Varvara Tikhonova, but feel free to call me Varya. 🙌
 
-![Header](https://images.unsplash.com/photo-1671260657902-4057e6582f3e?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Header](https://images.unsplash.com/photo-1642965711939-0d5f6dca6c6f?q=80&w=3186&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## About Me
 🚀 I've been in web development since 2023, and I can code and build web interfaces endlessly. It's not just work — it adds flavor to my life.
