@@ -16,10 +16,11 @@ I work on frontend and backend development as a hobby, and I am skilled while fo
 - 🎯 Interests: Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
 - ⚡ Fun fact: I only like perfection.
 
-## Languages & Tools I Have Placed My Hands On:
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js&logoColor=green)
+## GitHub Stats:
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varvaratikh&theme=radical)
+
+## Most Used Languages:
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varvaratikh&theme=radical)
 
 ## 🕒 When I'm Most Active:
 | Time of Day | Activity |
@@ -27,10 +28,4 @@ I work on frontend and backend development as a hobby, and I am skilled while fo
 | 🌅 **Morning** | Working on code, tackling new problems |
 | 🌞 **Day**     | Active on GitHub, collaborating, contributing to projects |
 | 🌙 **Night**   | Researching new tech and late-night coding sessions |
-
-## GitHub Stats:
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varvaratikh&theme=radical)
-
-## Most Used Languages:
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varvaratikh&theme=radical)
 
