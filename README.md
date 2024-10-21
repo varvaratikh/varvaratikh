@@ -29,11 +29,8 @@ I work on frontend and backend development as a hobby, and I am skilled while fo
 | 🌙 **Night**   | Researching new tech and late-night coding sessions |
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varvaratikh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varvaratikh&show_icons=true&theme=tokyonight)
 
 ## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varvaratikh&layout=compact&theme=radical)
-
-## Support Me:
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_LINK)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varvaratikh&layout=compact&theme=tokyonight)
 
