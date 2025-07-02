@@ -15,6 +15,9 @@ Hi! I'm Varvara Tikhonova, but feel free to call me Varya. 🙌
 
 If you're looking for someone who can bring a design to life with clean code, or want to chat about React, feel free to reach out!
 
+## GitHub Stats:
 ![GitHub Stats](https://raw.githubusercontent.com/varvaratikh/varvaratikh/main/profile-summary-card-output/radical/0-profile-details.svg)
-![Top Langs](https://raw.githubusercontent.com/varvaratikh/varvaratikh/main/profile-summary-card-output/radical/3-stats.svg)
+
+## Most Used Languages:
+![Top Langs](https://raw.githubusercontent.com/varvaratikh/varvaratikh/main/profile-summary-card-output/radical/1-repos-per-language.svg)
 
